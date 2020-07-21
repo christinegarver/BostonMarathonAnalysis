@@ -7,15 +7,14 @@ I explored the 2015 dataset, top racers across all 3 years, and then I trained R
 This project mainly demonstrates exploratory data analysis and is a cool intro of using EDA and modeling to look at running data.
 In the future, I want to try to work with training running data (either from Garmin or Strava) and try to build more advanced visuals (heat maps, graphic images, etc.).
 
-## TLDR (my code): 
-#### Running is fun --> if you train hard and are disciplined, you can get awesome times!!
-
 ## Acknowledgements
 Data is from https://www.kaggle.com/rojour/boston-results
 Thank You!!
 
 ## How to Run the Notebook
 Open the notebook using jupyter notebook and run through each cell. I have bits of Markdown in the notebook that explain my thinking and reasoning (this is usually the most important part of working with data because there are so many different ways to ask questions and approach problems!). Just run each cell in order (you may need to install some libraries). Please let me know if I messed up, need to fix anything, or you have any questions!
+
+## TLDR (my code): Running is fun --> if you train hard and are disciplined, you can get awesome times!!
 
 ### Author
 Christine Garver
