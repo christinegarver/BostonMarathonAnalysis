@@ -5,7 +5,7 @@ I love to run, so I wanted to use my skills on a dataset related to running. Luc
 I really enjoyed exploring and transforming this data. I have never ran a marathon, let alone a half marathon, so it was interesting and fun to see how paces and times changed throughout the entirety of the Boston Marathon.
 I explored the 2015 dataset, top racers across all 3 years, and then I trained Random Forest and KNN models to predict race time and age (for all 3 years). The results weren't great, but I expected this because we did not have many features and we only had 3 years worth of data.
 This project mainly demonstrates exploratory data analysis and is a cool intro of using EDA and modeling to look at running data.
-In the future, I want to try to work with training running data (either from Garmin or Strava) and try to build more advanced visuals (heat maps, graphic images, etc.).
+In the future, I want to try to work with *training running data* (either from Garmin or Strava) and try to build more advanced visuals (heat maps, animated images/graphs, etc.).
 
 ## Acknowledgements
 Data is from https://www.kaggle.com/rojour/boston-results
