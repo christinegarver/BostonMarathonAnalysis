@@ -14,11 +14,11 @@ Thank You!!
 ## How to Run the Notebook
 Open the notebook using jupyter notebook and run through each cell. I have bits of Markdown in the notebook that explain my thinking and reasoning (this is usually the most important part of working with data because there are so many different ways to ask questions and approach problems!). Just run each cell in order (you may need to install some libraries). Please let me know if I messed up, need to fix anything, or you have any questions!
 
-### TLDR (my code): Running is fun -> if you train hard and are disciplined, you can get awesome times!!
-
-### Tableau Plots
+## Tableau Plots
 I made a few extra visuals using Tableau Public. Click the link to access them: https://public.tableau.com/views/Practice-BostonMarathon2017/TimeCountry?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
-### Author
+### TLDR (my code): Running is fun -> if you train hard and are disciplined, you can get awesome times!!
+
+## Author
 Christine Garver
  
