@@ -18,5 +18,7 @@ Open the notebook using jupyter notebook and run through each cell. I have bits 
 
 ### Tableau Plots
 I made a few extra visuals using Tableau Public. Click the link to access them: https://public.tableau.com/views/Practice-BostonMarathon2017/TimeCountry?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+
+### Author
 Christine Garver
  
